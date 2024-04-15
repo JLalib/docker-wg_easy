@@ -1,4 +1,4 @@
-# docker-wg_easy
+# WireGuard Easy
 ## docker-compose wg-easy | Servidor VPN WireGuard
 
 Cómo instalar y configurar servidor VPN Wireguad y gestionar conexiones de usuarios con WG-EASy.
@@ -9,7 +9,7 @@ Cómo instalar y configurar servidor VPN Wireguad y gestionar conexiones de usua
 
 - Levanta el contenedor con comando; docker-compose up -d
 
-- Acceder al la interfaz web UI de VPN Wireguard poniendo dirección IP-ó-DNS:51821
+- Acceder al la interfaz web UI de VPN Wireguard poniendo dirección Acceso vía http://IP-SERVER-DOCKER:51821
 
 Vídeo en Youtube:
 
