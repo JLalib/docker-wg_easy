@@ -11,6 +11,8 @@ Cómo instalar y configurar servidor VPN Wireguad y gestionar conexiones de usua
 
 - Acceder al la interfaz web UI de VPN Wireguard poniendo dirección Acceso vía http://IP-SERVER-DOCKER:51821
 
+Los ficheros de configuración se guardan en; ./wireguard
+
 Vídeo en Youtube:
 
 
