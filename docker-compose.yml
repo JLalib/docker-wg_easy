@@ -14,8 +14,8 @@ services:
       - WG_HOST=genbyte.duckdns.org #IP ó Nombre DNS
       - WG_PORT=51820 #Puerto WireGuard
     ports:
-      - 51820:51820/udp
-      - 51821:51821/tcp
+      - 51820:51820/udp #Puerto Wireguard
+      - 51821:51821/tcp #Puerto Gestión usuarios - UI
     restart: unless-stopped
     sysctls:
       - net.ipv4.conf.all.src_valid_mark=1
