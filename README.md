@@ -17,7 +17,6 @@ Los ficheros de configuración se guardan en; ./wireguard
 
 Vídeo en Youtube: https://youtu.be/ueFeNl5T0EE
 
-
-![vpn wireguard easy docker](https://github.com/JLalib/docker-wg_easy/assets/57844755/85292e9a-b0a3-4a8b-a216-351ebb69ddf5)
+[![Mira el vídeo](https://img.youtube.com/vi/ueFeNl5T0EE/0.jpg)](https://www.youtube.com/watch?v=ueFeNl5T0EE)
 
 Fuente: https://github.com/wg-easy/wg-easy
